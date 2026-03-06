@@ -1,0 +1,1 @@
+C:\Users\bossn\Downloads\RT_PROJECT_!\.venv\Scripts\python.exe app.py
